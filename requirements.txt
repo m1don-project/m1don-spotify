@@ -1,0 +1,5 @@
+python-telegram-bot==21.4
+spotipy==2.25.1
+spotdl
+yt-dlp
+ffmpeg-python
